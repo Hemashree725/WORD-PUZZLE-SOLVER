@@ -60,12 +60,12 @@
 >The player is asked to register or log in.
 
 2. User Registration & Login
-{Registration (register_user())}
+Registration (register_user())
 >The player enters a username and password (validated for security).
 >The credentials are stored in user_data.txt.
 >The user’s score is initialized to 0 and saved in user_progress.txt.
 
-{Login (login_user())}
+Login (login_user())
 >The player enters existing credentials.
 >The program verifies them from user_data.txt.
 >If successful, the user’s saved score is retrieved from user_progress.txt.
