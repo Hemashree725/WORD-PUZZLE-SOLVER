@@ -11,18 +11,18 @@
 ~Three difficulty levels: Easy, Medium, and Hard.
 ~Each level has a predefined set of words that get scrambled.
 
-3)Gameplay Mechanics
+3) Gameplay Mechanics
 ~Players are presented with a scrambled word and must guess the correct word.
 ~They have 5 attempts per word.
 ~Correct answers earn 10 points and advance the player to the next level.
 ~Players can retry or change the difficulty if they fail.
 
-4)Score & Progress Tracking
+4) Score & Progress Tracking
 ~Player scores are saved in a progress file.
 ~Leaderboards are maintained for each difficulty level.
 ~Scores are ranked to determine top players.
 
-5)Random Word Scrambling
+5) Random Word Scrambling
 ~The game shuffles words uniquely to ensure unpredictability.
 
 
